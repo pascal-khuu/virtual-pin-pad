@@ -4,5 +4,5 @@ Le but du projet est de concevoir et de développer un écran Web représentant 
 Le nom de notre équipe est YAGNI et le scrum master est Manal avec 4 membres de l'équipe : Pascal, Yu Hui, Benjamin et Manal.
 YAGNI est un principe d'extreme programming qui déclare que les programmeurs ne devraient pas ajouter de fonctionnalité à un logiciel tant que celle-ci n'est pas absolument nécessaire.
 Github est un outil de collaboration entre les développeur et le partage de code.Un repository est un  dépôt ou référentiel (de l'anglais repository) est un stockage centralisé et organisé de données.
-Kanban est une méthode  permettant une meilleure gestion des taches entre les membres d’une équipe.
+Kanban est une méthode  permettant une meilleure gestion des taches entre les membres d’une équipe.Les cartes ou étiquettes vont représenter les tâches à accomplir en vue de répondre à la commande d'un client
 # réponses au question
