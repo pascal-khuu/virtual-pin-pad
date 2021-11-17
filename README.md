@@ -15,8 +15,9 @@ L’intérêt de diviser son travail en tâches avec une notion de priorités es
 Le wireframe et la photo du dessin permettent de visualiser le besoin fonctionnel du client du projet et ainsi coder les fonctionnalités attendues à partir de ce wireframe et ce croquis.
 Canvas permet de dessiner notre wireframe : une zone d'écran avec un code pin et un pavé numérique répondant au besoin fonctionnel du projet Virtual Pin Pad.
 
-![wireframe](https://user-images.githubusercontent.com/81921513/142000495-03f8d6d9-e91f-42e9-ac4d-598e765887da.GIF)
 
+
+![wireframe 2](https://user-images.githubusercontent.com/81921513/142263350-4851f229-1b29-4e35-a456-6971f64be9ef.GIF)
 
 
 
