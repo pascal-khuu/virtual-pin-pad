@@ -22,3 +22,11 @@ Canvas permet de dessiner notre wireframe : une zone d'écran avec un code pin e
 
 
 ![croquis](https://user-images.githubusercontent.com/81921513/142000590-760812f6-5950-4643-89c2-e8ddad6e8953.jpg)
+
+## HTML CSS
+Le doctype permet de connaître la version du HTML utilisée dans le navigateur.
+Les entêtes dans un document HTML permettent de contenir les méta données.
+Le viewport du navigateur est la zone de la fenêtre dans laquelle le contenu web peut être vu
+Il est nécessaire d'avoir les styles dans un fichier à part pour séparer le html (le contenu du site web) et le css (la mise en forme du site web).
+Un sélecteur est une expression qui indique au navigateur à quelle entité HTML s'applique la règle CSS correspondante.
+Les propriétés permettent de connaître quel style va être appliquer d'un élément html (color:green (la couleur sera verte)).
