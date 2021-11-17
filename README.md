@@ -31,4 +31,10 @@ Il est nécessaire d'avoir les styles dans un fichier à part pour séparer le h
 Le modèle de boîtes en CSS permet de gèrer la mise en page en CSS ainsi que le positionnement des  contenus d'une page HTML.</br>
 Un sélecteur est une expression qui indique au navigateur à quelle entité HTML s'applique la règle CSS correspondante.</br>
 Les propriétés permettent de connaître quel style va être appliquer d'un élément html (color:green (la couleur sera verte)).</br>
-Liens utilisés:https://developer.mozilla.org/fr/docs/Learn/HTML/Introduction_to_HTML
+Liens utilisés :
+https://developer.mozilla.org/fr/docs/Learn/HTML/Introduction_to_HTML (HTML) </br> 
+https://developer.mozilla.org/fr/docs/Web/HTML/Viewport_meta_tag (meta viewport) </br> 
+https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/The_box_model (modèle de box de CSS) </br> 
+https://developer.mozilla.org/fr/docs/Learn/CSS/First_steps/Getting_started (fichier CSS) </br> 
+https://developer.mozilla.org/fr/docs/Web/HTML/Element (balises HTML) </br> 
+                 
