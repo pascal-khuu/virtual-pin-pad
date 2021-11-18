@@ -24,7 +24,7 @@ Canvas permet de dessiner notre wireframe : une zone d'écran avec un code pin e
 ![croquis](https://user-images.githubusercontent.com/81921513/142000590-760812f6-5950-4643-89c2-e8ddad6e8953.jpg)
 
 ## HTML CSS
-Le doctype permet de connaître la version du HTML utilisée dans le navigateur. </br>
+Le doctype permet de connaître la version du HTML utilisée dans le navigateur. Cela permet d'empêcher d'être dans le mode quirks mode qui signifie  qu'un navigateur relativement moderne simule intentionnellement de nombreux bugs des anciens navigateurs</br>
 L'entête est la partie d'un document HTML qui contient les métadonnées qui le concernent, comme son auteur, sa description et des liens vers des fichiers CSS ou JavaScript qui s'appliquent au HTML.</br>
 L'en-tête head dans un document HTML est une partie du document qui n'est pas affichée par le navigateur au chargement de la page. Elle contient des informations comme le titre (<title>) de la page, des liens aux CSS.</br>
 Le viewport du navigateur est la zone de la fenêtre dans laquelle le contenu web peut être vu;</br>
@@ -32,7 +32,7 @@ Il est nécessaire d'avoir les styles dans un fichier à part pour séparer le h
 Le modèle de boîtes en CSS permet de gèrer la mise en page en CSS ainsi que le positionnement des  contenus d'une page HTML.</br>
 Un sélecteur est une expression qui indique au navigateur à quelle entité HTML s'applique la règle CSS correspondante.</br>
 Les propriétés permettent de connaître quel style va être appliquer d'un élément html (color:green (la couleur sera verte)).</br>
-Liens utilisés :
+Liens utilisés : </br>
 https://developer.mozilla.org/fr/docs/Learn/HTML/Introduction_to_HTML (HTML) </br> 
 https://developer.mozilla.org/fr/docs/Web/HTML/Viewport_meta_tag (meta viewport) </br> 
 https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/The_box_model (modèle de box de CSS) </br> 
