@@ -7,7 +7,7 @@ YAGNI est un principe d'extreme programming qui déclare que les programmeurs ne
 ## Outils et définition
 Github est un outil de collaboration entre les développeur et le partage de code.</br>
 Un repository est un  dépôt ou référentiel (de l'anglais repository) est un stockage centralisé et organisé de données.</br>
-Kanban est une méthode  permettant une meilleure gestion des taches entre les membres d’une équipe.Les cartes ou étiquettes vont représenter les tâches à accomplir en vue de répondre à la commande d'un client.</br>
+Kanban est une méthode  permettant une meilleure gestion des tâches entre les membres d’une équipe.Les cartes ou étiquettes vont représenter les tâches à accomplir en vue de répondre à la commande d'un client.</br>
 L’intérêt de diviser son travail en tâches avec une notion de priorités est de simplifier et s'organiser en centralisant sur les objectifs pour réaliser le projet.Un tableau de partagé suivi par les membres de l'équipe permet de suivre la réalisation des fonctionnalités développés de l'équipe et si ces réalisation répondent au besoin fonctionnel.</br>
 
 
@@ -25,7 +25,8 @@ Canvas permet de dessiner notre wireframe : une zone d'écran avec un code pin e
 
 ## HTML CSS
 Le doctype permet de connaître la version du HTML utilisée dans le navigateur. </br>
-Les entêtes dans un document HTML permettent de contenir les méta données.</br>
+L'entête est la partie d'un document HTML qui contient les métadonnées qui le concernent, comme son auteur, sa description et des liens vers des fichiers CSS ou JavaScript qui s'appliquent au HTML.</br>
+L'en-tête head dans un document HTML est une partie du document qui n'est pas affichée par le navigateur au chargement de la page. Elle contient des informations comme le titre (<title>) de la page, des liens aux CSS.</br>
 Le viewport du navigateur est la zone de la fenêtre dans laquelle le contenu web peut être vu;</br>
 Il est nécessaire d'avoir les styles dans un fichier à part pour séparer le html (le contenu du site web) et le css (la mise en forme du site web).</br>
 Le modèle de boîtes en CSS permet de gèrer la mise en page en CSS ainsi que le positionnement des  contenus d'une page HTML.</br>
