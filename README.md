@@ -38,4 +38,5 @@ https://developer.mozilla.org/fr/docs/Web/HTML/Viewport_meta_tag (meta viewport)
 https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/The_box_model (modèle de box de CSS) </br> 
 https://developer.mozilla.org/fr/docs/Learn/CSS/First_steps/Getting_started (fichier CSS) </br> 
 https://developer.mozilla.org/fr/docs/Web/HTML/Element (balises HTML) </br> 
+https://www.w3schools.com/css/css3_flexbox_container.asp (flex container)
                  
